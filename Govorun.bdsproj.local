@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>2012.01.13 04:49:52.738.pas,M:\Ck\D\Cынуля\Документы - Сергей\Borland Studio Projects\4qip\Govorun\SRC\Unit1.pas=M:\Ck\D\Cынуля\Документы - Сергей\Borland Studio Projects\4qip\Govorun\SRC\UnitMessage.pas</Transaction>
-    <Transaction>2012.01.13 04:54:32.955.pas,M:\Ck\D\Cынуля\Документы - Сергей\Borland Studio Projects\4qip\Govorun\SRC\UnitMessage.pas=M:\Ck\D\Cынуля\Документы - Сергей\Borland Studio Projects\4qip\Govorun\SRC\unitLogic.pas</Transaction>
-    <Transaction>2012.01.13 04:55:17.331.pas,M:\Ck\D\Cынуля\Документы - Сергей\Borland Studio Projects\4qip\Govorun\SRC\unitLogic.pas=M:\Ck\D\Cынуля\Документы - Сергей\Borland Studio Projects\4qip\Govorun\SRC\unitMessage.pas</Transaction>
-  </Transactions>
-</BorlandProject>
