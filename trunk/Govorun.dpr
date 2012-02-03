@@ -11,15 +11,7 @@ uses
   u_PopupEx in '..\SDK\SDK_1_11_0\SDK\u_PopupEx.pas',
   u_qip_msg in '..\SDK\SDK_1_11_0\SDK\u_qip_msg.pas',
   u_plugin_info in '..\SDK\SDK_1_11_0\SDK\u_plugin_info.pas',
-  unitMessage in 'unitMessage.pas',
-  Dynamic_Bass in 'BASS\Dynamic_Bass.pas',
-  Dynamic_Basscd in 'BASS\Dynamic_Basscd.pas',
-  Dynamic_Bassenc in 'BASS\Dynamic_Bassenc.pas',
-  Dynamic_BassFX in 'BASS\Dynamic_BassFX.pas',
-  Dynamic_Bassmix in 'BASS\Dynamic_Bassmix.pas',
-  Dynamic_Basswma in 'BASS\Dynamic_Basswma.pas',
-  Dynamic_Tags in 'BASS\Dynamic_Tags.pas',
-  Dynamic_WASAPI in 'BASS\Dynamic_WASAPI.pas';
+  unitMessage in 'unitMessage.pas';
 
 {$R *.res}
 
